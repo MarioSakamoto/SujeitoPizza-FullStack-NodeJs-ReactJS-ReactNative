@@ -8,11 +8,13 @@ import logoImg from '../../../public/logo.svg';
 
 import { Input } from '../../components/ui/Input'
 import { Button } from '../../components/ui/Button'
-
-import { AuthContext } from '../../contexts/AuthContext';
 import { toast } from 'react-toastify'
 
+import { AuthContext } from '../../contexts/AuthContext';
+
 import Link from 'next/link';
+
+import { canSSRGuest } from '../../utils/canSSRGuest';
 
 export default function SignUp() {
   const { signUp } = useContext(AuthContext);
@@ -92,3 +94,10 @@ export default function SignUp() {
       </>
   )
 }
+//estrutura de server side
+export const getServerSideProps = canSSRGuest = (async (ctx) => {
+ 
+   return {
+      props: {}
+    }
+})
