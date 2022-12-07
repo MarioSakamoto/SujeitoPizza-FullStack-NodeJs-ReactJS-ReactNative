@@ -55,6 +55,10 @@ export function ModalOrder({ isOpen, onRequestClose, order  }: ModalOrderProps){
         </section>
       ))}
 
+    <button className={styles.buttonOrder} onClick={ () => {} }>
+        Concluir pedido
+    </button>
+
 
     </div>
 
