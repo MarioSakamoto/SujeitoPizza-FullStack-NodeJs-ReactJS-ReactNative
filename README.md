@@ -3,7 +3,7 @@
 
 # Tecnicas e tecnologias utilizadas
 
-*JavaScript/TypeScript
+* JavaScript/TypeScript
 
 ### Back-end:
 * NodeJS
