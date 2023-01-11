@@ -2,6 +2,9 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/MarioSakamoto/SujeitoPizza-FullStack-NodeJs-ReactJS-ReactNative/blob/main/license)
 
 # Tecnicas e tecnologias utilizadas
+
+JavaScript/TypeScript
+
 ### Back-end:
 * NodeJS
 * PostgreSQL
