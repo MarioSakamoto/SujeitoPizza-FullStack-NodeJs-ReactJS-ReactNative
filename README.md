@@ -7,7 +7,7 @@
 * PostgreSQL
 * Postbird
 
-### Front-end:
+### Front-end Web:
 * ReactJS
 * NextJS
 * scss
