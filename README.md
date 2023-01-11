@@ -3,17 +3,17 @@
 
 # Tecnicas e tecnologias utilizadas
 ### Back-end:
-. NodeJS
-. PostgreSQL
-. Postbird
+* NodeJS
+* PostgreSQL
+* Postbird
 
 ### Front-end:
-. ReactJS
-. NextJS
-. scss
+* ReactJS
+* NextJS
+* scss
 
 ### Mobile:
-.React Native
+* React Native
 
 # Interface gráfica e funcionalidades
 https://www.figma.com/file/yTPA50bLeQdJOCrg5sAOqU/Pizzaria-Sujeito?node-id=0%3A1&t=mBZxiVyHNH8mjABw-0
