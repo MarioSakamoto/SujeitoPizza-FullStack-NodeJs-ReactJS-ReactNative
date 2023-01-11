@@ -1,4 +1,4 @@
-# SujeitoPizza-FullStack-NodeJs-ReactJS-ReactNative
+# SujeitoPizza-FullStack-Web-Mobile
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/MarioSakamoto/SujeitoPizza-FullStack-NodeJs-ReactJS-ReactNative/blob/main/license)
 
 # Tecnicas e tecnologias utilizadas
